@@ -16,13 +16,13 @@ This tool is designed to analyze a GitHub repository for security vulnerabilitie
 
 For Unix or macOS:
 
-```python3 -m venv venv
-source venv/bin/activate```
+```python3 -m venv venv```
+```source venv/bin/activate```
 
 For Windows:
 
-```python -m venv venv
-.\venv\Scripts\activate```
+```python -m venv venv```
+```.\venv\Scripts\activate```
 
 4. Install the required dependencies:
 
